@@ -71,7 +71,7 @@ The project is designed with a clear separation between the offline training pip
 +--------------------------+
 
 ```
-
+You can download the data from here - (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ---
 
 ## 3. Key Features
