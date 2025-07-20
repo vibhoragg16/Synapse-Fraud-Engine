@@ -127,13 +127,13 @@ pip install -r requirements.txt
 ### Step 3: Run the Training Pipeline
 This command will run the full experiment, generate the comparison graph (`model_comparison_pr_curve.png`), and save the best-performing model and its artifacts.
 ```bash
-python train_ultimate.py
+python train.py
 ```
 
 ### Step 4: Start the API Server
 Once the training is complete, start the real-time prediction server.
 ```bash
-uvicorn app_ultimate:app --reload
+uvicorn app:app --reload
 ```
 The API will be available at `http://127.0.0.1:8000`.
 
