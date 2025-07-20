@@ -71,9 +71,9 @@ The project is designed with a clear separation between the offline training pip
 +--------------------------+
 
 ```
-You can download the data from here - (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
----
 
+---
+You can download the data from here - (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ## 3. Key Features
 
 * **Rigorous Model Comparison:** Automatically tests four distinct modeling strategies to empirically determine the most effective approach for the dataset.
