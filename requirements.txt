@@ -1,0 +1,11 @@
+pandas 
+scikit-learn 
+imblearn<0.13.0 
+lightgbm 
+joblib 
+fastapi 
+uvicorn[standard]
+tensorflow 
+matplotlib 
+seaborn 
+shap
